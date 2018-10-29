@@ -1,4 +1,4 @@
-# Insight DevOps Engineering System Puzzle: Weblog
+
 
 ## Table of Contents
 1. [Understanding the puzzle](README.md#understanding-the-puzzle)
